@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.12.0
 
 MAINTAINER Antonino Abbate "ninoabbate@gmail.com"
 
